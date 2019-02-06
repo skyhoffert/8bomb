@@ -1,0 +1,2 @@
+# 8bomb
+Simple game.
